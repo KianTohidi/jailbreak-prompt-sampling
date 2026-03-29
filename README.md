@@ -7,7 +7,7 @@ This repository contains the data sampling code used in our research. It reprodu
 | # | Dataset | Label | Sample Size | Seed |
 |---|---------|-------|-------------|------|
 | 1 | [rogue-security/prompt-injections-benchmark](https://huggingface.co/datasets/rogue-security/prompt-injections-benchmark) | jailbreak | 100 | 42 |
-| 2 | *(second dataset — coming soon)* | jailbreak | 100 | 42 |
+| 2 | [allenai/wildjailbreak](https://huggingface.co/datasets/allenai/wildjailbreak)  | jailbreak | 100 | 42 |
 
 ## Requirements
 
